@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Raj Mishra</h1>
-<h3 align="center">Full-Stack Developer | MERN | Next.js | Tech Lead @ Explorify Trips</h3>
+<h3 align="center">Full-Stack Developer | MERN | Next.js </h3>
 
 <p align="center">
 🚀 Building scalable web apps | 💡 Problem Solver | 🧠 500+ DSA Problems
