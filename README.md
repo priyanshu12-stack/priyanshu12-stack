@@ -19,15 +19,17 @@
 
 ## 👨‍💻 About Me
 
-```python
-class Priyanshu:
-    def __init__(self):
-        self.role        = "Full-Stack Developer & AI/ML Engineer"
-        self.education   = "B.Tech ECE @ BIT Mesra (2023 - Present)"
-        self.scholarship = "GP Birla Scholar (4x)"
-        self.focus       = ["Scalable Web Apps", "Deep Learning", "Local-first AI", "System Design"]
-        self.fun_fact    = "Tech Lead of a live startup project 🚀"
-```
+<div align="center">
+
+| | |
+|---|---|
+| 💻 **Role** | Full-Stack Developer & AI/ML Engineer |
+| 🎓 **Education** | B.Tech ECE @ BIT Mesra (2023 – Present) |
+| 🏅 **Scholarship** | GP Birla Scholar (4 times) |
+| 🎯 **Focus** | Scalable Web Apps • Deep Learning • Local-first AI • System Design |
+| 🚀 **Fun fact** | Tech Lead of a live startup project |
+
+</div>
 
 <table>
 <tr>
@@ -224,20 +226,12 @@ MERN Stack • REST APIs • JWT/2FA Auth • RAG • Speech Deep Learning • D
 
 <div align="center">
 
-<img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="49%" alt="Profile details" />
-<img src="profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshu12-stack&theme=github_dark" width="49%" alt="Profile details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyanshu12-stack&theme=github_dark" width="49%" alt="GitHub stats" />
 
-<img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" width="32%" alt="Most commit language" />
-<img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" width="32%" alt="Repos per language" />
-<img src="profile-summary-card-output/github_dark/4-productive-time.svg" width="32%" alt="Productive time" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyanshu12-stack/priyanshu12-stack/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyanshu12-stack/priyanshu12-stack/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/priyanshu12-stack/priyanshu12-stack/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=priyanshu12-stack&theme=github_dark" width="32%" alt="Most commit language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priyanshu12-stack&theme=github_dark" width="32%" alt="Repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=priyanshu12-stack&theme=github_dark&timeZone=Asia/Kolkata" width="32%" alt="Productive time" />
 
 </div>
 
