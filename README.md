@@ -1,26 +1,256 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Raj Mishra</h1>
-<h3 align="center">Full-Stack Developer | MERN | Next.js </h3>
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<p align="center">
-🚀 Building scalable web apps | 💡 Problem Solver | 🧠 500+ DSA Problems
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Priyanshu%20Raj%20Mishra&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20ECE%20@%20BIT%20Mesra&descAlignY=58&descSize=18" width="100%" />
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+production+apps+for+70%2C000%2B+users;MERN+%7C+Next.js+%7C+PyTorch+%7C+Deep+Learning;1600%2B+LeetCode+rating+%7C+800%2B+problems+solved;Turning+ideas+into+scalable+products" alt="Typing SVG" />
+</a>
 
-# 💫 About Me:
-🔭 I’m currently working on  <br>Building scalable full-stack applications and a real-time travel marketplace (Explorify Trips) with Next.js, AWS, and secure payment integrations.<br><br>🤝 I’m looking to collaborate on  <br>Full-stack (MERN / Next.js) projects, AI-powered applications, and backend systems with real-world impact.<br><br>🆘 I’m looking for help with  <br>Advanced system design, distributed systems, and scaling production-grade applications.<br><br>🌱 I’m currently learning  <br>System Design, Backend Optimization, and advanced Next.js architecture.<br><br>💬 Ask me about  <br>MERN Stack, REST APIs, Authentication Systems, DSA (500+ problems), or building production-ready projects.<br><br>⚡ Fun fact  <br>Solved 500+ DSA problems, 1600+ LeetCode rating, and Tech Lead of a live startup project 🚀
+<br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=priyanshu12-stack&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-raj-mishra-59ba20316)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshu001raj@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Hhystxn2xX)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyanshu-raj-mishra-59ba20316) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshu001raj@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=priyanshu12-stack&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=priyanshu12-stack&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu12-stack&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=priyanshu12-stack&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+```python
+class Priyanshu:
+    def __init__(self):
+        self.role      = "Full-Stack Developer & AI/ML Enthusiast"
+        self.education = "B.Tech ECE @ BIT Mesra (2023 - 2027)"
+        self.internships = ["BCCL (Coal India Ltd.)", "IIT (ISM) Dhanbad"]
+        self.scholarship = "GP Birla Scholar (4x)"
+        self.focus     = ["Scalable Web Apps", "Deep Learning", "System Design"]
+        self.fun_fact  = "Tech Lead of a live startup project 🚀"
+
+    def currently(self):
+        return "Building Explorify Trips, a real-time travel marketplace, with Next.js, AWS & secure payments"
+```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔭 Currently working on
+Building **Explorify Trips**, a live travel marketplace with Next.js, AWS and secure payment integrations.
+
+### 🌱 Currently learning
+System Design • Backend Optimization • Advanced Next.js Architecture
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 Open to collaborate on
+Full-stack (MERN / Next.js) projects, AI-powered applications and backend systems with real-world impact.
+
+### 💬 Ask me about
+MERN Stack • REST APIs • Auth Systems (JWT/2FA) • DSA • Deep Learning on speech
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 BCCL Employee Self-Service Portal
+Production portal serving **70,000+ employees** across **52+ collieries**.
+
+- 2FA login: JWT + OTP + legacy MD5 compatibility
+- 7 modules, **15+ REST endpoints**
+- Bilingual UI (English + Hindi), 5-stage approval timeline, auto PDF generation
+
+`React` `Node.js` `Express` `MySQL` `Sequelize`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Parkinson's Disease Detection
+Speech-based diagnostic AI using **WaveLM + GRU + SVM**.
+
+- **72%+ accuracy** on the PC-GITA clinical corpus
+- 768-D embeddings compressed to a 128-D temporal vector
+- Beats handcrafted features (MFCC, jitter, shimmer)
+
+`Python` `PyTorch` `Scikit-learn` `Torchaudio`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/priyanshu12-stack/parkinsons_detection)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Vibecode Editor: AI Browser IDE
+A fully in-browser IDE with **6 project templates** powered by WebContainers.
+
+- 3-tier AI fallback chain: Gemini → Ollama → OpenAI
+- OAuth (Google + GitHub) via NextAuth v5
+- Monaco Editor + xterm.js terminal
+
+`Next.js 15` `TypeScript` `Prisma` `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+### ✈️ Explorify Trips
+Real-time travel marketplace (live startup project, Tech Lead).
+
+- Scalable architecture on AWS
+- Secure payment integrations
+- Production-ready, real users
+
+`Next.js` `AWS` `Payments`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![C](https://skillicons.dev/icons?i=c,cpp,python,js,ts,go&theme=dark)
+
+**Frontend**
+
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=dark)
+
+**Backend & Databases**
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgres,prisma,aws&theme=dark)
+
+**AI / ML & Data**
+
+![AI](https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas,opencv&theme=dark)
+
+**Tools & Deployment**
+
+![Tools](https://skillicons.dev/icons?i=git,github,docker,vercel,postman,figma,kubernetes,nginx&theme=dark)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=priyanshu12-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu12-stack&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=priyanshu12-stack&theme=tokyonight&hide_border=true" />
+
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu12-stack&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/priyanshu12-stack/priyanshu12-stack/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</div>
+
+> The snake needs a one-time GitHub Action. See the setup notes at the bottom of this file.
+
+---
+
+## 🧩 Problem Solving
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Hhystxn2xX?theme=dark&font=Karma&ext=heatmap" width="75%" />
+
+</div>
+
+| 🏆 Achievement | Details |
+|---|---|
+| LeetCode | **1600+ rating**, top ~20% globally |
+| Problems Solved | **800+** across multiple platforms |
+| Scholarship | **GP Birla Scholarship** awarded 4 times |
+| Innovation | **Top 10 of 500+ teams**, IIC Business Idea Competition |
+
+---
+
+## 🎓 Education & Experience
+
+```text
+🎓 B.Tech, Electronics & Communication Engineering
+   Birla Institute of Technology, Mesra  |  2023 - Present
+
+💼 Full-Stack Developer Intern  |  May 2026 - Jul 2026
+   Bharat Coking Coal Limited (Coal India Subsidiary)
+
+🔬 Research Intern
+   IIT (ISM) Dhanbad
+```
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+I'm open to **SDE, AI/ML, Data and Full-Stack** opportunities and collaborations.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-raj-mishra-59ba20316)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshu001raj@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+
+</div>
+
+<!--
+SETUP NOTES (delete this block after setup)
+
+2. Your profile README must live in a repo named exactly: priyanshu12-stack/priyanshu12-stack
+3. Snake animation: create .github/workflows/snake.yml in that repo:
+
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
